@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Satish Geddam
 
-<!--
-**geddamsatish756-hub/geddamsatish756-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Full Stack Developer | India 🇮🇳
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Engineering Student passionate about technology
+- 🌱 Currently learning Full Stack Development
+- 💡 Interested in Web Development and Cloud Technologies
+- 🔥 Goal: To become a skilled Full Stack Developer
+- ⚡ I enjoy building websites and solving real-world problems
+
+---
+
+## 🛠️ Skills
+
+### 💻 Frontend
+- HTML
+- CSS
+- JavaScript
+
+### ⚙️ Backend
+- Node.js (Learning)
+- Express.js (Learning)
+
+### 🗄️ Database
+- MongoDB (Learning)
+- MySQL (Basics)
+
+### 🔧 Tools
+- Git & GitHub
+- VS Code## Hi there 👋
